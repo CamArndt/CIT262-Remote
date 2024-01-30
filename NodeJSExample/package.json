@@ -4,7 +4,7 @@
   "description": "CIT262 NodeJS package project",
   "main": "index.js",
   "scripts": {
-    "test": "echo"
+    "hello": "node helloworld.js"
   },
   "author": "cameron Arndt",
   "license": "ISC"
